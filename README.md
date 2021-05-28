@@ -1,3 +1,2 @@
-# insta-stories-node-app
 # Screenshot
-
+![](docs/screenshot.png)
